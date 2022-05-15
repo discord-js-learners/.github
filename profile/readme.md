@@ -12,7 +12,7 @@ JavaScript Python Lua c# html bash
 # praneethprogame
 A bot developer and a minecraft server developer
 Knows
-JavaScript
+JavaScript html
 
 # realguystuff
 A bot developer and a linux enthusiast
